@@ -1,0 +1,26 @@
+body  {
+  text-align: center;
+  background-color: rgb(211,211,211)
+}
+
+table {
+  margin: 0 auto;
+  border: 3px solid rgb(255, 0, 0);
+  align:  center;
+  width: 450px;
+  height: 450px;
+  table-layout: fixed
+}
+td  {
+  padding: 15px;
+  border: 3px solid rgb( 200, 150, 255);
+  font-size: 65px;
+  overflow: hidden;
+  width: 150px;
+  height: 150px
+}
+button  {
+  margin: 12px 0px 12px 0px;
+  border-radius: 20px;
+  background-color: rgb(255,255,102);
+}
